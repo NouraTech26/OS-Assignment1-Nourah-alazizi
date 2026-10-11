@@ -29,11 +29,11 @@
 
 | Field | Your Answer |
 |-------|-------------|
-| **Full Name** | [Write your full name here] |
-| **Student ID** | [Write your student ID here] |
-| **University Email** | [yourid]@std.psau.edu.sa |
-| **GitHub Username** | [your-github-username] |
-| **Repository Link** | [Paste your repository link here] |
+| **Full Name** | [nourah sultan alazizi] |
+| **Student ID** | [444051471] |
+| **University Email** | [444051471]@std.psau.edu.sa |
+| **GitHub Username** | [NouraTech26] |
+| **Repository Link** | [  https://github.com/NouraTech26/OS-Assignment1-Nourah-alazizi] |
  
 ---
 
@@ -64,7 +64,7 @@
 | 8 | Record the video, upload it, paste the link above | Video + this file | Part 4 (1.5) |
 | 9 | Final check, then submit the repo link on Blackboard | Blackboard | – |
 
-> 💡 **TIP:** Tick each step off as you go. Do not leave the log, the reflection or the video for the last day.
+> 💡 **TIP:** Tick each step off as you go. Dolink not leave the log, the reflection or the video for the last day.
 
 ---
 
@@ -129,68 +129,78 @@
 
 ## Your Development Log
 
-### Entry 1 - [Date and Time]
-**What I did**:
+### Entry 1 - [october 4,2026]
+**I created my GitHub account and started setting up my Operating Systems assignment repository.**:
 
-**Details**:
+**Details - Created my GitHub account.
+- Started preparing my Operating Systems assignment repository.**:
 
-**Challenges**:
+**Challenges I had some difficulty understanding how to set up my GitHub repository because it was new to me.**:
 
-**Solution**:
+**Solution  I followed step-by-step instructions and learned how to create and set up my GitHub repository.**:
 
-**Time spent**:
-
----
-
-### Entry 2 - [Date and Time]
-**What I did**:
-
-**Details**:
-
-**Challenges**:
-
-**Solution**:
-
-**Time spent**:
+**Time spent  2 hours**:
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**:
+### Entry 2 - [october 5,2026]
+**What I did I installed Java and set up VS Code to run my Operating Systems assignment.  **:
 
-**Details**:
+**Details - Installed the Java Development Kit (JDK).
+- Set up VS Code with the Java extensions.
+- Prepared the environment to compile and run the Java program..**:
 
-**Challenges**:
+**Challenges I had difficulty setting up Java and making sure VS Code could run the program correctly. **:
 
-**Solution**:
+**Solution  I installed the JDK and Java extensions, followed the setup instructions, and tested the program in VS Code.**:
 
-**Time spent**:
-
----
-
-### Entry 4 - [Date and Time]
-**What I did**:
-
-**Details**:
-
-**Challenges**:
-
-**Solution**:
-
-**Time spent**:
+**Time spent 3 hours**:
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**:
+### Entry 3 - [Date and Time october 6,2026]
+**What I did  worked on running and understanding the Java scheduling simulation.**:
 
-**Details**:
+**Details  SchedulerSimulation.java file.
+- Learned how the Round Robin scheduling simulation works.
+- Practiced compiling and running the Java**:
 
-**Challenges**:
+**Challenges  Understanding the scheduling logic and how the processes were executed was difficult at first.**:
 
-**Solution**:
+**Solution I reviewed the code step by step and tested the program to understand its output. **:
 
-**Time spent**:
+**Time spent 3 hours**:
+
+---
+
+### Entry 4 - [Date and Time october 7,2026]
+**What I did  I worked on adding the required features to the scheduling simulation.**:
+
+**Details  .
+- Added a counter to track context switches.
+- Added waiting time tracking for processes.**:
+
+**Challenges  : I needed to understand how to add the new features without breaking the existing program.**:
+
+**Solution  made changes to the Java code and compiled and ran the program to check the results.**:
+
+**Time spent  2 hours**:
+
+
+
+### Entry 5 - [Date and Time october 8,2026]
+**What I did worked on documenting my assignment progress in MY_WORK.md.**:
+
+**Details  .
+- Added my GitHub repository link.
+- Wrote development log entries describing my work.
+- Reviewed the assignment documentation requirements.**:
+
+**Challenges  Organizing my work into clear development log entries took some time.**:
+
+**Solution  divided the documentation into separate entries and described the work completed in each session.**:
+
+**Time spent 3 hours**:
 
 ---
 
@@ -237,7 +247,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[I learned that multithreading allows a Java program to work with multiple threads. I learned how Runnable can define the work that a thread performs. The Thread.start() method is used to start a new thread. The Thread.join() method allows one thread to wait until another thread finishes. I also learned that Thread.sleep() pauses the current thread for a period of time and can be used to simulate work. The most interesting thing for me was seeing how threads can run independently and how their execution order can change..]
 
 ## Question 2: What was the most challenging part of this assignment?
 
@@ -245,7 +255,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[The most challenging part of this assignment was understanding the Java code. At first, I did not fully understand how the scheduling simulation worked. I found it difficult to follow how the processes were executed. I needed to review the code carefully to understand each part. Running the program and checking the output helped me understand it better. After working through the code step by step, I became more confident in understanding the simulation.]
 
 ## Question 3: How did you overcome the challenges you faced?
 
@@ -253,7 +263,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[I overcame the challenges by working on the assignment step by step. When I did not understand something, I asked for help and reviewed the instructions. I also checked the Java code to understand how the program worked. I used VS Code to compile and run the program. When I faced problems, I tried to understand the output and find a solution. This process helped me become more comfortable with Java and the assignment..]
 
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 
@@ -261,7 +271,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[Multithreading can be used in many real-world applications. For example, a web browser can load a page while the user interacts with another part of the browser. A music player can play audio while the user browses a playlist. In mobile applications, background tasks can run without freezing the user interface. Games can also use different threads for tasks such as loading resources and handling input. I learned that multithreading can help applications stay responsive while handling multiple tasks.]
 
 ### Optional: What would you like to learn more about?
 
@@ -293,7 +303,7 @@
 
 **Your Answer:** *(3-5 sentences)*
 
-[Write your answer here.]
+[A process is an independent program with its own memory space, while threads within the same process share memory. Threads are usually faster to create and can communicate more easily than separate processes. In this assignment, we used Java threads to simulate the execution of multiple processes. The Process class in SchedulerSimulation.java represents a simulated process, not a real operating system process. In the addProcessToQueue() method, new Thread(process) creates a real Java thread to run the simulated process.]
 
 ## Question 2: Ready Queue Behavior
 
@@ -305,15 +315,18 @@
 
 **Your Answer:** *(3-5 sentences)*
 
-[Write your answer here.]
+[In Round-Robin scheduling, a process that does not finish within its time quantum is added back to the ready queue. In my program, P9 had a burst time of 10856 ms and the time quantum was 5000 ms. P9 was re-queued two times before completing its execution. This allows other processes to use the CPU instead of waiting for one process to finish. Re-queuing helps make CPU scheduling fair for all processes..]
 
 Example from my output:
-```
+``` P9 completed quantum 5000ms
+Remaining time: 856ms
+P9 yields CPU for context switch
+P9 added to ready queue | Priority: 6 | Burst time: 10856ms
 [Paste a relevant snippet from your program output here showing a process being re-queued]
 ```
 
 **Explanation of example:**
-[Explain what is happening in the output snippet you pasted.]
+[P9 needed 10856 ms to finish, but each time quantum was only 5000 ms. Therefore, P9 needed three CPU turns and was re-queued twice before finishing. This gave other processes a chance to use the CPU..]
 
 ## Question 3: Thread Lifecycle
 
@@ -323,16 +336,16 @@ Example from my output:
 
 **Your Answer:** *(3-5 sentences overall; one short explanation per state)*
 
-1. **New**: [When is P1 in the New state?]
+1. **New**: [P1 enters this state when new Thread(process) creates its thread in addProcessToQueue().]
 
-2. **Runnable**: [When does P1 become Runnable?]
+2. **Runnable**: [ becomes Runnable when the scheduler calls start() on its thread.]
 
-3. **Running**: [When is P1 Running?]
+3. **Running**: [P1 executes the code inside run() when the CPU schedules its thread.]
 
-4. **Waiting**: [When and why would a thread be Waiting?]
+4. **Waiting**: [P1 enters Timed Waiting when Thread.sleep() pauses it temporarily, while the main thread can wait using join().]
 
-5. **Terminated**: [When is P1 Terminated?]
-
+5. **Terminated**: [P1 becomes Terminated when its run() method finishes.]
+Runnable
 ## Question 4: Real-World Applications
 
 **Question**: Give **TWO** real-world examples where Round-Robin scheduling with threads would be useful. **At least one** must be an operating-system-level scenario (e.g., how an OS scheduler shares CPU time among running programs). The second can be any application you choose. For each, explain what the system is and **why Round-Robin fits** (fairness, responsiveness, predictability).
@@ -344,7 +357,9 @@ Example from my output:
 ### Example 1 (operating-system level): [Name of scenario]
 
 **Description**:
-[Describe the real-world scenario.]
+[Example 1: Operating System CPU Scheduling
+
+An operating system can use Round-Robin scheduling to share CPU time among multiple runnable programs. Each program or task plays the role of a process in our simulation. The time quantum is the maximum amount of CPU time assigned to a task during one turn. When that time expires, the operating system can perform a context switch and let another task run. This approach improves fairness and helps keep the system responsive.]
 
 **Why Round-Robin works well here**:
 [Fairness, responsiveness, predictability?]
@@ -352,21 +367,23 @@ Example from my output:
 ### Example 2: [Name of application/scenario]
 
 **Description**:
-[Describe the real-world scenario or application.]
+[Example 2: Web Server Request Handling
+
+A web server could use a Round-Robin approach to distribute processing time among active requests. Each request handler plays the role of a process in our simulation. The time quantum represents the limited processing time given to each request before switching to another. A context switch occurs when execution moves from one request-handling task to another. This approach can help prevent one long request from delaying all the others.]
 
 **Why Round-Robin works well here**:
-[Fairness, responsiveness, predictability?]
+[Round-Robin improves fairness by giving each task a turn and helps the system remain responsive.]
 
 ## Summary
 
 **Key concepts I understood through these questions:**
-1.
-2.
-3.
+1. The difference between threads and processes.
+2. How Round-Robin scheduling uses a ready queue.
+3. How threads move through their lifecycle states.
 
 **Concepts I need to study more:**
-1.
-2.
+1. Understanding thread synchronization and thread states.
+2. Understanding context switching and CPU scheduling in more detail.
 
 ---
 
